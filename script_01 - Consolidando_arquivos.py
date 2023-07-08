@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 
 # Local diretório
-local_diretorio = 'C:/PythonProjetos/Dashboard_com_Python/dados'
+local_diretorio = 'dados'
 Path(local_diretorio)
 diretorio_path = Path(local_diretorio)
 # print(type(diretorio_path))
