@@ -7,4 +7,4 @@
 
 **DIA 3: CONSTRUÇÃO DO DASHBOARD →** Nesta etapa fizemos então o Dashboard do zero.  
 
-![](C:\PythonProjetos\Dashboard_com_Python\img\DashboardPython.png)
+![](img/DashboardPython.png)
