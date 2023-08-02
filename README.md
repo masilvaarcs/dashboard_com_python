@@ -12,7 +12,7 @@ Este projeto apresenta um roteiro criado no DIA 1, abordando a INGESTÃO DOS DAD
 
 ## Execução
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone o repositório: `git clone https://github.com/masilvaarcs/seu-repositorio.git`
 2. Acesse o diretório: `cd seu-repositorio`
 3. Instale as dependências necessárias: `pip install pandas sqlite3`
 4. Execute o script Python: `python nome_do_script.py`
